@@ -1,0 +1,14 @@
+*.alt
+*.bak
+
+*_bak
+*_alt
+
+*-bak
+*-alt
+
+Local/.local/
+!Local/.local/bin/playit
+!Local/.local/bin/wayclick
+!Local/.local/share/fonts
+!Local/.local/share/notif-audio
