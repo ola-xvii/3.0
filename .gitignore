@@ -7,6 +7,9 @@
 *-bak
 *-alt
 
+Config/.config/caelestia/monitors
+
+
 Local/.local/
 !Local/.local/bin/playit
 !Local/.local/bin/wayclick
