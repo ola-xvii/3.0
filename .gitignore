@@ -8,7 +8,7 @@
 *-alt
 
 Config/.config/caelestia/monitors
-
+Config/.config/yt-dlp/file.txt
 
 Local/.local/
 !Local/.local/bin/playit
